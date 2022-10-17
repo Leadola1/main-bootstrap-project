@@ -1,0 +1,8 @@
+body::before {
+    display: block;
+    height: 50px;
+    content: '';
+}
+@media (min-width:768px) {.input-shorten {
+    width:50%;
+}}
